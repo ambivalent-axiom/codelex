@@ -1,2 +1,0 @@
-#Codelex homeworks
-#Artūrs Melnis
